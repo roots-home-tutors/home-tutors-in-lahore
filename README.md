@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Home Tutors in Lahore - Roots Home Tutors | Male & Female Tutors</title>
-<meta name="description" content="Looking for home tutors in Lahore? Roots Home Tutors provides verified male & female tutors for O Level, A Level, Matric, FSc. Free 2-day trial in DHA, Gulberg, Johar Town.">
+  <meta name="description" content="Looking for home tutors in Lahore? Roots Home Tutors provides verified male & female tutors for O Level, A Level, Matric, FSc. Free 2-day trial in DHA, Gulberg, Johar Town.">
 </head>
 <body>
 <h1>Home Tutors in Lahore – Trusted Home Tuition Service</h1>
